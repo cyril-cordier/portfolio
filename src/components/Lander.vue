@@ -20,7 +20,7 @@
         <section class="protfolio">
             <h1>Portfolio</h1>
             <p>Voici quelques projets réalisés, actuellement en ligne. <br>
-            D'autres projets sont consultables sur mon github : <a href="https://github.com/cyril-cordier/" target="blank">https://github.com/cyril-cordier/</a>
+            Les projets sont consultables sur mon github : <a href="https://github.com/cyril-cordier/" target="blank">https://github.com/cyril-cordier/</a>
                 
             </p>
             <div class="container">
@@ -38,6 +38,23 @@
                                     <p>
                                         Pour mon projet de fin de formation, j'ai choisi de proposer à mon club de Tennis la rénovation du site internet.
                                         <br>Ce projet, développé avec un back-end Laravel et un front-end VueJs est amené à évoluer au fur et à mesure de l'apprentissage de nouvelles technologies.
+                                    </p>
+                                    <button type="button" class="btn btn-outline-secondary" onClick="location.href='https://tc95us.fr'" target="blank" >Visiter le site</button>
+                                </div>
+                            </div>
+                            <br>
+                    </div>
+                    <div class="col-md-12">
+                            <div class="card">
+                                <div class="card-head">
+                                    <img alt="logos technos" src="../images/technos_tcus.png" style="width:20rem">
+                                    <a href="https://tc95us.fr" target="blank"><img alt="logos technos" src="../images/accueil.png" style="width:20rem"></a>
+                                    <h2>Mes technologies</h2>
+                                </div>
+                                <hr>
+                                <div class="card-body">
+                                    <p>
+                                        VueJs / Laravel
                                     </p>
                                     <button type="button" class="btn btn-outline-secondary" onClick="location.href='https://tc95us.fr'" target="blank" >Visiter le site</button>
                                 </div>
