@@ -31,7 +31,7 @@
                                 <div class="card-head">
                                     <img alt="logos technos" src="../images/technos_tcus.png" style="width:20rem">
                                     <a href="https://tc95us.fr" target="blank"><img alt="logos technos" src="../images/accueil.png" style="width:20rem"></a>
-                                    <h2>Projet de fin de formation DEV&Go</h2>
+                                    <h2 style="margin-top:2rem">Projet de fin de formation DEV&Go</h2>
                                 </div>
                                 <hr>
                                 <div class="card-body">
@@ -47,16 +47,14 @@
                     <div class="col-md-12">
                             <div class="card">
                                 <div class="card-head">
-                                    <img alt="logos technos" src="../images/technos_tcus.png" style="width:20rem">
-                                    <a href="https://tc95us.fr" target="blank"><img alt="logos technos" src="../images/accueil.png" style="width:20rem"></a>
-                                    <h2>Mes technologies</h2>
+                                    
+                                    
+                                    <h2 style="margin-top:2rem">Mes technologies</h2>
                                 </div>
                                 <hr>
                                 <div class="card-body">
-                                    <p>
-                                        VueJs / Laravel
-                                    </p>
-                                    <button type="button" class="btn btn-outline-secondary" onClick="location.href='https://tc95us.fr'" target="blank" >Visiter le site</button>
+                                    <img alt="logos technos" src="../images/technos.png" style="width:100%">
+                                    <!-- <a href="https://tc95us.fr" target="blank"><img alt="logos technos" src="../images/accueil.png" style="width:20rem"></a> -->
                                 </div>
                             </div>
                             <br>
