@@ -28,7 +28,7 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-md-12">
+                    <div class="col-md-6">
                             <div class="card">
                                 <div class="card-head">
                                     <img alt="logos technos" src="../images/tcus/technos_tcus.png" style="width:20rem">
@@ -46,7 +46,7 @@
                             </div>
                             <br>
                     </div>
-                    <div class="col-md-12">
+                    <div class="col-md-6">
                             <div class="card">
                                 <div class="card-head">
                                     <img alt="logos technos" src="../images/rotten_tomatoes/technos_RT.png" style="width:20rem">
