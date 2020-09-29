@@ -5,12 +5,15 @@
             <div class="container-fliud">
                 <img alt="Cyril Cordier - Web dev" class="rounded-circle" src="../images/Cyril_CORDIER.jpg" height="200">
                 <h1>Cyril CORDIER</h1>
-                <h3>Developeur / Intégrateur Web Full Stack</h3>
+                <h3>Développeur / Intégrateur Web Full Stack</h3>
                 <p>Bienvenue sur mon portfolio où vous trouverez les sites que j'ai conçu ou les projets de groupe auquels j'ai participé 
-                    <br>dans le cadre de ma formation en cursus intensif Dev&Go avec la Coding Academy by Epitech</p>
+                    <br>dans le cadre de ma formation en cursus intensif Dev&Go et Code&Go avec la Coding Academy by Epitech</p>
                     <a href="https://www.coding-academy.fr/dev-go/" target="blank"><img alt="logo epitech"  src="../images/CODING_LOGO.png" height="50"></a>
                 <!-- <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target=".bd-example-modal-lg">Contact</button> -->
-                <br>
+                <br><br>
+                <h5>Je suis actuellement en recherche d'un stage de 4 à 6 mois (à partir du 26 octobre 2020), <br>
+                de préférence sur des projets Laravel/VueJs/Nuxt, mais ouvert également à la découverte de nouvelles technos !</h5>
+                <br><br>
                 <button type="button" class="btn btn-primary btn-lg" onClick="location.href='mailto:cyril.cordier@gmail.com?subject=Contact depuis le site Portfolio'" style="margin-top:3rem">Contact</button>
 
             </div>
@@ -21,7 +24,6 @@
             <h1>Portfolio</h1>
             <p>Voici quelques projets réalisés, actuellement en ligne. <br>
             Les projets sont consultables sur mon github : <a href="https://github.com/cyril-cordier/" target="blank">https://github.com/cyril-cordier/</a>
-                
             </p>
             <div class="container">
                 <div class="row">
@@ -29,8 +31,8 @@
                     <div class="col-md-12">
                             <div class="card">
                                 <div class="card-head">
-                                    <img alt="logos technos" src="../images/technos_tcus.png" style="width:20rem">
-                                    <a href="https://tc95us.fr" target="blank"><img alt="logos technos" src="../images/accueil.png" style="width:20rem"></a>
+                                    <img alt="logos technos" src="../images/tcus/technos_tcus.png" style="width:20rem">
+                                    <a href="https://tc95us.fr" target="blank"><img alt="logos technos" src="../images/tcus/accueil.png" style="width:20rem"></a>
                                     <h2 style="margin-top:2rem">Projet de fin de formation DEV&Go</h2>
                                 </div>
                                 <hr>
@@ -40,6 +42,24 @@
                                         <br>Ce projet, développé avec un back-end Laravel et un front-end VueJs est amené à évoluer au fur et à mesure de l'apprentissage de nouvelles technologies.
                                     </p>
                                     <button type="button" class="btn btn-outline-secondary" onClick="location.href='https://tc95us.fr'" target="blank" >Visiter le site</button>
+                                </div>
+                            </div>
+                            <br>
+                    </div>
+                    <div class="col-md-12">
+                            <div class="card">
+                                <div class="card-head">
+                                    <img alt="logos technos" src="../images/rotten_tomatoes/technos_RT.png" style="width:20rem">
+                                    <a href="http://nuxt-tomatoes.herokuapp.com/" target="blank"><img alt="logos technos" src="../images/rotten_tomatoes/rotten_tomatoes.png" style="width:20rem"></a>
+                                    <h2 style="margin-top:2rem">Projet NuxtJs - Rotten Tomatoes</h2>
+                                </div>
+                                <hr>
+                                <div class="card-body">
+                                    <p>
+                                        Pour ce projet NuxtJs, c'est en équipe de 4 dev que nous avons reproduit le site "Rotten Tomatoes", site de critiques de films, basé sur l'API 'The movie DataBase (TMDB)'
+                                        <br>Pour ce projet, le back et le front sont intégrés dans Nuxt, avec un back ExpressJs et des données stockées via le cloud MongoDB (Atlas).
+                                    </p>
+                                    <button type="button" class="btn btn-outline-secondary" onClick="location.href='http://nuxt-tomatoes.herokuapp.com/'" target="blank" >Visiter le site</button>
                                 </div>
                             </div>
                             <br>
