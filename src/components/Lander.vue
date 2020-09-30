@@ -5,7 +5,7 @@
             <div class="container-fliud">
                 <img alt="Cyril Cordier - Web dev" class="rounded-circle" src="../images/Cyril_CORDIER.jpg" height="200">
                 <h1>Cyril CORDIER</h1>
-                <h3>Développeur / Intégrateur Web Full Stack</h3>
+                <h3>Développeur / Intégrateur Web Full Stack junior</h3>
                 <p>Bienvenue sur mon portfolio où vous trouverez les sites que j'ai conçu ou les projets de groupe auquels j'ai participé 
                     <br>dans le cadre de ma formation en cursus intensif Dev&Go et Code&Go avec la Coding Academy by Epitech</p>
                     <a href="https://www.coding-academy.fr/dev-go/" target="blank"><img alt="logo epitech"  src="../images/CODING_LOGO.png" height="50"></a>
