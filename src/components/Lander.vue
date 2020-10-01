@@ -5,16 +5,14 @@
             <div class="container-fliud">
                 <img alt="Cyril Cordier - Web dev" class="rounded-circle" src="../images/Cyril_CORDIER.jpg" height="200">
                 <h1>Cyril CORDIER</h1>
-                <h3>Développeur / Intégrateur Web Full Stack</h3>
+                <h3>Développeur / Intégrateur Web Full Stack junior</h3>
                 <p>Bienvenue sur mon portfolio où vous trouverez les sites que j'ai conçu ou les projets de groupe auquels j'ai participé 
                     <br>dans le cadre de ma formation en cursus intensif Dev&Go et Code&Go avec la Coding Academy by Epitech</p>
                     <a href="https://www.coding-academy.fr/dev-go/" target="blank"><img alt="logo epitech"  src="../images/CODING_LOGO.png" height="50"></a>
                 <!-- <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target=".bd-example-modal-lg">Contact</button> -->
                 <br><br>
-                <h5>J'ai vraiment apprécié travailler sur des projets Laravel/VueJs/Nuxt <br>
-                et je suis ouvert également à la découverte de nouvelles technos ! <br><br>
-                Actuellement en projet de groupe sur une app mobile cross-plateform avec React-Native. <br>
-                Objectif : Reproduire l'app mobile Imgur (<a href="https://imgur.com/" target="blank">https://imgur.com/</a>)</h5>
+                <h5>Je suis actuellement en recherche d'un stage de 4 à 6 mois (à partir du 26 octobre 2020), <br>
+                de préférence sur des projets Laravel/VueJs/Nuxt, mais ouvert également à la découverte de nouvelles technos !</h5>
                 <br><br>
                 <button type="button" class="btn btn-primary btn-lg" onClick="location.href='mailto:cyril.cordier@gmail.com?subject=Contact depuis le site Portfolio'" style="margin-top:3rem">Contact</button>
 
