@@ -9,7 +9,7 @@
             <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
                 <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                 <li class="nav-item active">
-                    <a class="nav-link" href="https://onedrive.live.com/?authkey=%21AH6r8%5FpPlr9hStA&cid=639A32BA101FDC3D&id=639A32BA101FDC3D%2135496&parId=639A32BA101FDC3D%212462&o=OneUp" target="blank">Télécharger mon CV <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="https://1drv.ms/b/s!Aj3cHxC6MppjgpUq8G2O4qbAPOB47w" target="blank">Télécharger mon CV <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="https://www.linkedin.com/in/cyril-cordier-a32451b3/" target="blank">Linkedin</a>
