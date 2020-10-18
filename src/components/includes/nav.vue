@@ -17,6 +17,12 @@
                 <li class="nav-item">
                     <a class="nav-link" href="https://github.com/cyril-cordier/" target="blank">Github</a>
                 </li>
+                <li class="nav-item">
+                    <router-link to="/newsletters" class="nav-link">Newsletters</router-link>
+                </li>
+                <li class="nav-item">
+                    <router-link to="/" class="nav-link">Portfolio</router-link>
+                </li>
                 
                 </ul>
             </div>
