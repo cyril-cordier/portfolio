@@ -18,10 +18,10 @@
                     <br>Le quatuor de technos : MongoDB (DB)/ ExpressJs (Backend) / VueJs (FrontEnd)/ Tailwind (CSS) ont
                     été choisis par notre groupe pour élaborer ce projet.
                     Actuellmeent en cours de dev, le projet est toutefois dejà accessible sur <a
-                        href="https://gameproject.netlify.app/" target="blank">https://gameproject.netlify.app/</a>.
+                        href="https://gameproj.netlify.app/" target="blank">https://gameproj.netlify.app/</a>.
                 </p>
                 <button type="button" class="btn btn-outline-secondary"
-                    onClick="location.href='https://gameproject.netlify.app/'" target="blank">Visiter et tester le
+                    onClick="location.href='https://gameproj.netlify.app/'" target="blank">Visiter et tester le
                     site</button>
             </div>
         </div>

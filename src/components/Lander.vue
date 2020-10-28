@@ -15,8 +15,7 @@
                 <br><br> <br><br>
                 <h5>J'ai vraiment apprécié travailler sur des projets MySql/Laravel/VueJs, MongoDB/ExpressJs/Nuxt, MongoDB/ExpressJs/VueJs <br>
                 et je suis ouvert également à la découverte de nouvelles technos ! <br><br>
-                Actuellement en projet de groupe en méthode agile pour un projet de site de partage de jeux de société en ligne avec MongoDB/ExpressJs/VueJs <br>
-                Site en cours de construction disponible sur (<a href="https://gameproject.netlify.app/" target="blank">https://gameproject.netlify.app/</a>)</h5>
+                </h5>
                 <br><br>
                 
 
