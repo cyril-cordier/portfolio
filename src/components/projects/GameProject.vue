@@ -3,7 +3,7 @@
         <div class="card">
             <div class="card-head">
                 <img alt="logos technos" src="../../images/Gameproject/technos_gameproject.png" style="width:20rem">
-                <a href="https://gameproject.netlify.app/" target="blank"><img alt="logos technos"
+                <a href="https://gameproj.netlify.app/" target="blank"><img alt="logos technos"
                         src="../../images/Gameproject/Gameproject.png" style="width:20rem"></a>
                 <h2 style="margin-top:2rem">Projet de fin de formation CODE&GO</h2>
                 <p>Date de réalisation : du 5 au 23/10/2020</p>
