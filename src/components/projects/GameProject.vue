@@ -11,14 +11,15 @@
             <hr>
             <div class="card-body">
                 <p>
-                    Le projet de fin de formation Full stack DEV&GO est un projet de groupe en mode Agile. 3 groupes ont
+                    Le projet de fin de formation Full stack DEV&GO est un projet de groupe en mode Agile à 4 developpeurs. 3 groupes ont
                     été définis, chacun étant à la fois Product Owner pour un second
                     groupe de dev, et dev pour le 3ème groupe. Nous avons hérité d'un projet de site de partage de jeux
-                    de société.
+                    de société (jeux-partage).
                     <br>Le quatuor de technos : MongoDB (DB)/ ExpressJs (Backend) / VueJs (FrontEnd)/ Tailwind (CSS) ont
                     été choisis par notre groupe pour élaborer ce projet.
-                    Actuellmeent en cours de dev, le projet est toutefois dejà accessible sur <a
+                    Le projet tel qu'il a été abouti en fin de formation est accessible sur <a
                         href="https://gameproj.netlify.app/" target="blank">https://gameproj.netlify.app/</a>.
+                        <br> Petite créa personnelle avec photoshop au passage pour le logo "jeux-partage" et le gif animé "Chuck Norris" sur la page de simulation de dés...
                 </p>
                 <button type="button" class="btn btn-outline-secondary"
                     onClick="location.href='https://gameproj.netlify.app/'" target="blank">Visiter et tester le
