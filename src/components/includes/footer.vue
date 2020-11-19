@@ -3,7 +3,7 @@
         <footer class="container py-5">
             <div class="row">
                 <div class="col-12 col-md">
-                <small class="d-block mb-3 text-muted">© 2020 - Cyril CORDIER - Dernière mise à jour : 18/10/2020</small>
+                <small class="d-block mb-3 text-muted">© 2020 - Cyril CORDIER - Dernière mise à jour : 19/11/2020</small>
                 </div>
                 <!-- <div class="col-6 col-md">
                 <h5>Features</h5>

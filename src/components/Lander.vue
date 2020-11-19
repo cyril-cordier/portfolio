@@ -13,7 +13,7 @@
                     <a href="https://www.coding-academy.fr/dev-go/" target="blank"><img alt="logo epitech"  src="../images/CODING_LOGO.png" height="70"></a>
                 <!-- <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target=".bd-example-modal-lg">Contact</button> -->
                 <br><br> <br><br>
-                <h5>J'ai vraiment apprécié travailler sur des projets MySql/Laravel/VueJs, MongoDB/ExpressJs/Nuxt, MongoDB/ExpressJs/VueJs <br>
+                <h5>J'ai vraiment apprécié travailler sur des projets MongoDB/ExpressJs/VueJs, MySql/Laravel/VueJs,  <br>
                 et je suis ouvert également à la découverte de nouvelles technos ! <br><br>
                 </h5>
                 <br><br>
@@ -38,6 +38,7 @@
 
                     
                     <TC95US />
+                    <ViasEReservation />
                     <GameProject />
                     <RottenTomatoes />
                     <MyShop />
@@ -98,6 +99,7 @@ import TC95US from './projects/TC95US.vue'
 import RottenTomatoes from './projects/RottenTomatoes.vue'
 import MyShop from './projects/MyShop.vue'
 import Laravel from './projects/Laravel.vue'
+import ViasEReservation from './projects/ViasEReservation.vue'
 
 
 export default {
@@ -109,6 +111,7 @@ export default {
         RottenTomatoes,
         MyShop,
         Laravel,
+        ViasEReservation
         
     }  
 }
